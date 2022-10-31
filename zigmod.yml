@@ -1,0 +1,6 @@
+id: c3dh5kdd9q6noxhnuo4w6vmceabr3ogot9djhy60asjyhyki
+name: wakeywakey
+license: GPL3
+description:  
+root_dependencies:
+  - src: git https://github.com/marlersoft/zigwin32
